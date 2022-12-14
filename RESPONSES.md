@@ -69,7 +69,9 @@
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `eavesdropping.fly.dev`
+Once you've deployed your Rails app, put the link here: `eavesdropping.fly.dev`. I added a Star Wars reference with some ASCII art. 
+
+If I misinterpreted the prompt, please allow me to adjust it. LetterOpened seemed to be configured for production.
 
 #### Personal Notes: 
 I framed my responses based off the context of the prompts. Such as changing up my tone in the community forum response to encourage both the user and others in the community to include `fly logs` in their original question. Public knowledge responses should be worded with future readers in mind. Meanwhile, the email response sets an expectation of providing more direct assistance one-on-one (I'll investigate this issue). 
